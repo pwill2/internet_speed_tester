@@ -1,0 +1,516 @@
+﻿Timestamp,Download Speed,Upload Speed,Server URL,Server Lat,Server Lon,Server Name,Server Country,Server Sponsor,Server ID,Server Latency,Execution Time
+4/6/21 10:23,178.02,9.19,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.231,21.81
+4/6/21 10:24,178.48,6.96,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.148,22.18
+4/6/21 10:25,176.61,6.86,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.154,22.87
+4/6/21 10:26,177.47,8.8,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.22,22.26
+4/6/21 10:27,178.5,8.63,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.306,22.91
+4/6/21 10:28,177.6,5.93,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,17.122,23.56
+4/6/21 10:29,175.63,7.22,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,12.387,22.64
+4/6/21 10:31,178.94,9.43,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.569,21.99
+4/6/21 10:32,178.47,8.27,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.91,22.02
+4/6/21 10:33,177.93,6.66,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.118,21.68
+4/6/21 10:34,177.85,9.41,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.011,22.43
+4/6/21 10:35,176.04,9.41,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.256,21.89
+4/6/21 10:36,174.23,7.1,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.855,22.06
+4/6/21 10:37,178.33,7.14,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.982,22.53
+4/6/21 10:38,178.82,9.35,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.105,21.85
+4/6/21 10:39,177.08,9.64,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.412,21.94
+4/6/21 10:40,172.55,6.44,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,12.709,22.71
+4/6/21 10:41,172.48,6.79,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,13.076,22.18
+4/6/21 10:42,177.53,8.63,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.166,21.8
+4/6/21 10:43,178,9.1,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,16.197,22.12
+4/6/21 10:44,176.02,9.18,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.392,22.38
+4/6/21 10:45,175.58,7.7,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.764,22.32
+4/6/21 10:46,176.19,9.26,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.552,22.63
+4/6/21 10:47,177.7,7.48,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.929,23.13
+4/6/21 10:48,178.08,8.37,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.794,22.44
+4/6/21 10:49,177.93,6.45,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.474,22.38
+4/6/21 10:50,178.43,8.96,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.082,22.04
+4/6/21 10:51,176.53,9.33,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.059,22.19
+4/6/21 10:52,176.95,8.23,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.396,22.54
+4/6/21 10:53,177.9,6.8,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,12.86,23
+4/6/21 10:54,176.75,7.95,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,13.255,21.77
+4/6/21 10:55,178.68,6.68,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.336,21.68
+4/6/21 10:56,177.56,7.35,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.515,21.82
+4/6/21 10:57,178.43,6.7,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.782,23.45
+4/6/21 10:58,176.87,7.21,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,13.468,23.4
+4/6/21 10:59,176.01,7.78,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.639,22.66
+4/6/21 11:01,174.65,7.53,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.495,22.77
+4/6/21 11:02,176.46,6.67,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.211,21.7
+4/6/21 11:03,175.22,7.13,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.459,23.2
+4/6/21 11:04,177.37,7.73,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.356,22.52
+4/6/21 11:05,175.84,6.88,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,16.324,23.29
+4/6/21 11:06,175.55,7.68,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,16.703,22.17
+4/6/21 11:07,177.13,8.9,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.236,22.14
+4/6/21 11:08,175.98,5.56,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.549,25.43
+4/6/21 11:09,177.27,5.47,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.906,23.84
+4/6/21 11:10,177,7.32,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.345,22.39
+4/6/21 11:11,165.9,9.22,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.255,22.15
+4/6/21 11:12,172.71,7.15,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.834,22.7
+4/6/21 11:13,173.86,7.67,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.696,22.85
+4/6/21 11:14,176.91,7.47,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.53,22.27
+4/6/21 11:15,178.92,7.61,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.924,22.05
+4/6/21 11:16,175.54,7.39,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.773,23.49
+4/6/21 11:17,178.03,8.69,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.855,21.89
+4/6/21 11:18,176.16,6.64,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.955,23.55
+4/6/21 11:19,177.78,7.28,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.684,21.89
+4/6/21 11:20,177.1,7.56,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.467,22.39
+4/6/21 11:21,178.11,5.7,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.391,21.91
+4/6/21 11:22,176.75,7.13,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,13.368,23
+4/6/21 11:23,162.13,8.3,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.39,22.2
+4/6/21 11:24,163.68,8.05,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.426,22.62
+4/6/21 11:25,173.1,5.61,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.238,22.85
+4/6/21 11:26,175.92,8.97,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.944,22.08
+4/6/21 11:27,178.84,9.22,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.071,21.89
+4/6/21 11:28,174.84,7.99,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.091,21.97
+4/6/21 11:29,175.69,7.76,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.466,22.1
+4/6/21 11:31,175.87,8.27,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.212,22.49
+4/6/21 11:32,174.58,7.91,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.037,23.3
+4/6/21 11:33,174.39,8.93,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.604,22.61
+4/6/21 11:34,171.3,7.66,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.194,21.98
+4/6/21 11:35,166.15,6.88,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,13.529,22.88
+4/6/21 11:36,166.04,8.6,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.135,22.43
+4/6/21 11:37,169.06,9.65,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.562,21.98
+4/6/21 11:38,169.29,9.26,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.778,22.69
+4/6/21 11:39,170.99,8.16,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.404,22.74
+4/6/21 11:40,175.63,8.94,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.756,22.13
+4/6/21 11:41,178.08,7.15,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,14.058,22.01
+4/6/21 11:42,173.46,6.62,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,17.555,22.46
+4/6/21 11:43,177.26,6.7,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,13.891,23
+4/6/21 11:44,175.5,8.47,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,13.075,22.08
+4/6/21 11:45,177.77,7.5,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.399,22.43
+4/6/21 11:46,176.23,8.56,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.01,22.28
+4/6/21 11:47,175.31,7.7,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.945,22.07
+4/6/21 11:48,176.89,7.87,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.799,22.36
+4/6/21 11:49,177.44,7.48,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,LV.Net,9056,13.614,21.62
+4/6/21 11:50,175.04,6.54,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.176,-115.137,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.625,22.0804/06/2021 11:52:01,174.27,8.32,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.521,22.54
+04/06/2021 11:53:01,177.03,8.49,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.046,21.87
+04/06/2021 11:54:01,175.72,9.64,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.804,21.93
+04/06/2021 11:55:00,177.66,7.59,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.906,22.2
+04/06/2021 11:56:00,176.91,7.53,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.217,21.84
+04/06/2021 11:57:00,176.74,7.72,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.343,22.76
+04/06/2021 11:58:00,174.92,7.48,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.27,22.12
+04/06/2021 11:59:01,177.79,9.71,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.878,21.7
+04/06/2021 12:01:01,177.19,7.38,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.46,22.68
+04/06/2021 12:02:00,177.28,9.61,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.889,21.9
+04/06/2021 12:03:01,170.8,7.67,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.856,22.28
+04/06/2021 12:04:00,176.09,6.99,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.908,22.27
+04/06/2021 12:05:01,175.5,6.17,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.074,22.11
+04/06/2021 12:06:00,177.37,4.26,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.719,21.74
+04/06/2021 12:07:00,175.38,5.54,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.178,22.9
+04/06/2021 12:08:00,171.9,6.26,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.028,22.4
+04/06/2021 12:09:00,168.47,5.19,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.314,23.12
+04/06/2021 12:10:00,175.26,5.68,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.304,22.33
+04/06/2021 12:11:00,173.43,5.92,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.723,23.52
+04/06/2021 12:12:01,167.18,6.89,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.223,21.97
+04/06/2021 12:13:00,176.67,4.72,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,12.423,23.46
+04/06/2021 12:14:01,175.41,6.77,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,8.722,22.51
+04/06/2021 12:15:00,173.64,6.86,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,12.214,23.0
+04/06/2021 12:16:01,177.03,7.04,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.346,22.16
+04/06/2021 12:17:00,174.25,7.5,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.375,22.76
+04/06/2021 12:18:00,175.9,7.71,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.297,22.25
+04/06/2021 12:19:00,174.03,5.68,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,12.728,23.24
+04/06/2021 12:20:00,175.09,6.07,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.355,23.28
+04/06/2021 12:21:00,174.65,6.06,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.675,22.25
+04/06/2021 12:22:00,177.31,5.62,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.186,24.38
+04/06/2021 12:23:00,171.45,6.79,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.271,21.92
+04/06/2021 12:24:01,176.11,6.17,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.524,21.7
+04/06/2021 12:25:00,171.04,5.63,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.125,23.26
+04/06/2021 12:26:00,176.07,5.61,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.933,22.81
+04/06/2021 12:27:00,177.93,5.38,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.217,25.52
+04/06/2021 12:28:00,176.14,6.14,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,8.574,22.05
+04/06/2021 12:29:00,172.6,5.28,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.858,23.52
+04/06/2021 12:31:01,174.68,5.54,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.393,22.67
+04/06/2021 12:32:01,174.05,4.81,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,8.43,23.0
+04/06/2021 12:33:00,177.36,4.83,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.152,21.98
+04/06/2021 12:34:00,175.02,3.78,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.011,24.65
+04/06/2021 12:35:00,175.95,6.81,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.774,22.03
+04/06/2021 12:36:00,172.12,6.58,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.975,21.85
+04/06/2021 12:37:00,177.47,6.16,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.095,22.77
+04/06/2021 12:38:00,176.24,6.07,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.343,22.13
+04/06/2021 12:39:01,172.12,6.27,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.549,25.44
+04/06/2021 12:40:00,175.78,5.79,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,9.989,22.61
+04/06/2021 12:41:00,176.67,6.01,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.27,21.68
+04/06/2021 12:42:00,175.6,5.1,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.038,22.82
+04/06/2021 12:43:00,175.76,6.25,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.512,21.99
+04/06/2021 12:44:01,174.68,6.92,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.548,23.05
+04/06/2021 12:45:00,177.24,6.5,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.944,22.44
+04/06/2021 12:46:01,177.33,6.66,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.178,22.15
+04/06/2021 12:47:00,176.22,6.72,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.063,24.04
+04/06/2021 12:48:00,176.74,5.99,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.25,23.31
+04/06/2021 12:49:00,172.05,6.37,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.635,23.93
+04/06/2021 12:50:00,175.79,7.25,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.362,22.78
+04/06/2021 12:51:00,177.03,6.69,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.469,23.35
+04/06/2021 12:52:00,176.36,8.76,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.858,21.96
+04/06/2021 12:53:00,172.13,8.99,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.339,22.03
+04/06/2021 12:54:00,176.06,8.46,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.361,22.14
+04/06/2021 12:55:01,175.23,7.18,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.899,21.93
+04/06/2021 12:56:00,173.86,6.03,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.033,23.4
+04/06/2021 12:57:01,176.11,5.88,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.093,22.69
+04/06/2021 12:58:00,174.94,7.84,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.399,23.19
+04/06/2021 12:59:00,173.28,7.03,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,29.458,24.54
+04/06/2021 13:01:00,175.9,7.83,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.249,22.53
+04/06/2021 13:02:00,160.97,8.89,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.962,22.27
+04/06/2021 13:03:00,154.77,6.89,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.155,22.07
+04/06/2021 13:04:00,165.56,9.16,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.563,23.24
+04/06/2021 13:05:01,163.1,7.97,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.064,22.56
+04/06/2021 13:06:01,176.32,7.21,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.036,22.09
+04/06/2021 13:07:00,176.75,7.05,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.737,21.99
+04/06/2021 13:08:00,176.29,4.97,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.955,26.11
+04/06/2021 13:09:00,177.6,6.3,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,17.577,24.22
+04/06/2021 13:10:01,174.38,7.1,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.681,23.67
+04/06/2021 13:11:01,174.63,9.27,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.411,21.84
+04/06/2021 13:12:00,173.09,7.93,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.068,21.84
+04/06/2021 13:13:00,173.22,7.74,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.292,22.0
+04/06/2021 13:14:00,176.01,7.57,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.122,22.57
+04/06/2021 13:15:00,176.87,7.5,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.422,21.76
+04/06/2021 13:16:00,174.4,7.58,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.651,22.09
+04/06/2021 13:17:00,157.71,7.11,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.149,22.06
+04/06/2021 13:18:01,176.84,4.86,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.787,22.0
+04/06/2021 13:19:00,172.93,5.6,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,11.707,24.35
+04/06/2021 13:20:00,176.45,7.08,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.367,22.52
+04/06/2021 13:21:00,175.18,7.24,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.921,21.99
+04/06/2021 13:22:00,173.33,6.93,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.516,22.18
+04/06/2021 13:23:00,176.1,6.69,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.911,22.27
+04/06/2021 13:24:00,176.19,6.79,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.128,22.31
+04/06/2021 13:25:00,173.3,6.72,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.078,22.17
+04/06/2021 13:26:00,175.09,5.83,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,11.137,22.95
+04/06/2021 13:27:00,177.73,4.23,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.947,21.77
+04/06/2021 13:28:00,175.75,6.79,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.176,21.68
+04/06/2021 13:29:00,177.35,5.5,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.617,22.62
+04/06/2021 13:31:01,175.59,5.48,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.906,22.61
+04/06/2021 13:32:01,151.66,5.62,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,11.821,23.54
+04/06/2021 13:33:00,175.36,5.14,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,11.797,23.46
+04/06/2021 13:34:00,171.99,4.71,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.654,23.0
+04/06/2021 13:35:00,176.04,5.7,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.891,22.19
+04/06/2021 13:36:00,176.56,4.9,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.687,23.02
+04/06/2021 13:37:00,176.79,5.74,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.221,22.68
+04/06/2021 13:38:00,176.1,5.71,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.156,22.58
+04/06/2021 13:39:01,175.09,6.13,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.824,22.3
+04/06/2021 13:40:00,171.98,6.99,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.603,21.92
+04/06/2021 13:41:00,176.83,5.59,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.425,23.38
+04/06/2021 13:42:00,176.55,5.44,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.258,25.66
+04/06/2021 13:43:00,167.71,7.16,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,7.9,22.51
+04/06/2021 13:44:01,175.52,6.22,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,12.16,23.33
+04/06/2021 13:45:00,174.38,6.11,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.472,22.69
+04/06/2021 13:46:00,174.46,7.09,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.013,22.36
+04/06/2021 13:47:00,172.8,6.58,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.726,22.23
+04/06/2021 13:48:00,176.96,6.51,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.522,22.03
+04/06/2021 13:49:00,176.99,6.9,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,8.896,21.87
+04/06/2021 13:50:00,177.53,5.53,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.913,22.95
+04/06/2021 13:51:00,170.9,6.29,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.739,22.8
+04/06/2021 13:52:00,176.07,4.51,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.795,21.69
+04/06/2021 13:53:00,175.41,6.6,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.36,22.08
+04/06/2021 13:54:00,176.41,5.58,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.852,23.03
+04/06/2021 13:55:00,168.53,5.62,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.188,22.3
+04/06/2021 13:56:00,174.96,5.2,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.217,22.06
+04/06/2021 13:57:00,175.24,5.72,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.726,23.7
+04/06/2021 13:58:00,175.47,6.13,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.614,22.72
+04/06/2021 13:59:00,176.61,5.63,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,11.333,23.15
+04/06/2021 14:01:01,172.25,7.01,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,21.578,23.5
+04/06/2021 14:02:00,173.48,6.4,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.151,22.45
+04/06/2021 14:03:00,177.08,5.18,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,8.773,22.82
+04/06/2021 14:04:00,174.73,6.56,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.505,22.66
+04/06/2021 14:05:00,171.1,6.58,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,10.543,23.32
+04/06/2021 14:06:00,177.19,9.94,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.419,21.83
+04/06/2021 14:07:00,176.51,7.5,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.951,21.79
+04/06/2021 14:08:00,175.4,6.47,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.544,22.29
+04/06/2021 14:09:00,177.65,7.8,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.412,22.88
+04/06/2021 14:10:01,178.07,8.41,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.214,22.36
+04/06/2021 14:11:00,177.82,7.09,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.152,21.67
+04/06/2021 14:12:00,174.2,7.06,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.858,22.04
+04/06/2021 14:13:01,163.52,7.33,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.39,22.53
+04/06/2021 14:14:00,168.73,6.29,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.184,23.18
+04/06/2021 14:15:00,174.03,8.74,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.099,22.62
+04/06/2021 14:16:00,178.73,7.71,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.824,21.78
+04/06/2021 14:17:00,171.07,7.75,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.732,22.21
+04/06/2021 14:18:00,170.77,7.13,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.383,22.45
+04/06/2021 14:19:00,165.1,8.29,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.034,21.69
+04/06/2021 14:20:00,167.48,5.75,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.188,22.91
+04/06/2021 14:21:00,171.11,7.84,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.714,21.68
+04/06/2021 14:22:00,170.37,7.25,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.961,22.52
+04/06/2021 14:23:00,171.03,6.76,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.847,23.55
+04/06/2021 14:24:01,171.66,6.24,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.738,22.87
+04/06/2021 14:25:01,177.93,8.24,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.62,22.24
+04/06/2021 14:26:00,162.88,8.34,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.601,22.44
+04/06/2021 14:27:00,169.83,7.69,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.904,22.83
+04/06/2021 14:28:00,169.84,6.46,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.333,22.15
+04/06/2021 14:29:00,172.35,6.73,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.809,22.37
+04/06/2021 14:31:01,170.08,7.32,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.446,22.34
+04/06/2021 14:32:00,168.9,7.16,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.746,22.3
+04/06/2021 14:33:00,172.18,7.45,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.494,21.98
+04/06/2021 14:34:00,174.33,6.85,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.149,21.9
+04/06/2021 14:35:00,177.45,7.38,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.501,22.77
+04/06/2021 14:36:00,142.51,7.17,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.288,22.33
+04/06/2021 14:37:00,166.31,5.63,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,12.917,26.0
+04/06/2021 14:38:00,169.14,8.71,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.14,22.67
+04/06/2021 14:39:00,170.54,7.68,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.68,24.28
+04/06/2021 14:40:01,170.69,7.73,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.023,22.65
+04/06/2021 14:41:01,164.7,7.65,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.301,21.75
+04/06/2021 14:42:01,169.53,7.3,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.877,22.93
+04/06/2021 14:43:00,166.95,6.18,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.94,22.55
+04/06/2021 14:44:01,173.64,5.86,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.505,23.74
+04/06/2021 14:45:01,166.62,8.0,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.36,23.24
+04/06/2021 14:46:00,168.97,8.52,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.239,21.61
+04/06/2021 14:47:00,168.05,9.72,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.509,21.85
+04/06/2021 14:48:00,172.41,8.88,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.137,22.49
+04/06/2021 14:49:00,174.55,7.94,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.079,22.34
+04/06/2021 14:50:01,170.03,8.55,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.657,22.85
+04/06/2021 14:51:01,165.43,6.9,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.714,22.11
+04/06/2021 14:52:01,171.47,7.81,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.477,22.39
+04/06/2021 14:53:00,166.69,6.51,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.287,22.24
+04/06/2021 14:54:00,170.96,6.07,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.244,24.68
+04/06/2021 14:55:01,167.02,9.6,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.903,22.16
+04/06/2021 14:56:00,171.35,9.27,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.29,22.1
+04/06/2021 14:57:00,178.93,9.08,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.895,22.42
+04/06/2021 14:58:01,176.83,7.93,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.447,22.94
+04/06/2021 14:59:00,173.58,6.99,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.47,23.83
+04/06/2021 15:01:01,170.97,6.88,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,11.876,21.88
+04/06/2021 15:02:00,172.82,8.54,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.882,22.46
+04/06/2021 15:03:01,162.13,8.1,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,17.213,22.46
+04/06/2021 15:04:00,173.57,7.66,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.36,22.11
+04/06/2021 15:05:01,163.25,6.8,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.704,22.93
+04/06/2021 15:06:01,163.09,5.76,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.614,22.72
+04/06/2021 15:07:01,170.95,7.1,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.57,22.29
+04/06/2021 15:08:00,171.1,7.97,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.797,23.48
+04/06/2021 15:09:00,173.89,8.37,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.841,22.35
+04/06/2021 15:10:00,173.55,6.18,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.009,22.89
+04/06/2021 15:11:01,171.62,6.52,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.105,22.67
+04/06/2021 15:12:00,162.98,6.78,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.197,22.38
+04/06/2021 15:13:01,170.9,7.27,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.824,22.53
+04/06/2021 15:14:01,166.63,6.14,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.181,22.92
+04/06/2021 15:15:00,168.72,7.99,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.094,22.67
+04/06/2021 15:16:00,176.49,9.23,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.869,22.01
+04/06/2021 15:17:00,171.2,7.26,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.253,22.3
+04/06/2021 15:18:01,171.03,7.45,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.67,22.21
+04/06/2021 15:19:00,178.27,6.83,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.613,23.67
+04/06/2021 15:20:00,178.2,6.76,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.573,21.82
+04/06/2021 15:21:00,179.04,7.33,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.287,22.09
+04/06/2021 15:22:01,168.11,7.24,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.802,22.64
+04/06/2021 15:23:00,170.29,6.37,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,12.984,22.54
+04/06/2021 15:24:00,170.78,8.22,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.116,22.36
+04/06/2021 15:25:00,176.09,7.22,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.066,22.82
+04/06/2021 15:26:00,159.76,5.66,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.24,24.74
+04/06/2021 15:27:00,172.1,8.72,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.46,22.29
+04/06/2021 15:28:00,173.22,8.13,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.63,21.89
+04/06/2021 15:29:00,171.72,7.98,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.129,22.15
+04/06/2021 15:31:00,168.91,9.4,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.098,22.04
+04/06/2021 15:32:01,172.89,6.38,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.296,22.49
+04/06/2021 15:33:00,173.96,6.91,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.291,21.77
+04/06/2021 15:34:00,174.82,9.09,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.986,21.72
+04/06/2021 15:35:00,175.4,7.34,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.757,21.59
+04/06/2021 15:36:00,177.22,9.95,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.861,21.77
+04/06/2021 15:37:00,178.08,8.98,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.045,22.34
+04/06/2021 15:38:00,173.8,7.79,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.635,22.39
+04/06/2021 15:39:00,172.92,7.35,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.518,21.96
+04/06/2021 15:40:00,170.43,6.89,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.058,22.5
+04/06/2021 15:41:00,179.3,8.63,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.11,21.99
+04/06/2021 15:42:01,177.04,7.42,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.667,22.03
+04/06/2021 15:43:02,66.05,6.71,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.293,44.02
+04/06/2021 15:44:00,174.82,3.76,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.49,69.35
+04/06/2021 15:45:10,117.8,8.85,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,26.272,22.86
+04/06/2021 15:46:14,76.82,8.25,http://speedtest.serverpoint.com:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,ServerPoint,22320,34.795,25.18
+04/06/2021 15:47:01,74.52,8.86,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,18.682,39.15
+04/06/2021 15:48:00,178.31,3.83,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.595,37.33
+04/06/2021 15:49:01,177.73,9.5,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,18.84,22.12
+04/06/2021 15:51:15,176.7,8.58,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,21.379,22.85
+04/06/2021 15:52:11,168.23,9.08,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,26.582,23.6
+04/06/2021 15:53:10,84.1,8.83,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,22.881,23.89
+04/06/2021 15:55:01,80.55,8.58,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,19.604,38.78
+04/06/2021 15:56:01,171.68,2.99,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.975,97.97
+04/06/2021 15:57:39,129.64,6.9,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,27.008,23.93
+04/06/2021 15:58:00,175.16,9.09,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,9.408,24.08
+04/06/2021 15:59:00,173.95,8.31,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,19.567,22.63
+04/06/2021 16:20:00,169.12,9.2,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,19.519,22.11
+04/06/2021 16:21:10,166.26,4.54,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,19.551,1090.47
+04/06/2021 16:40:00,178.5,2.88,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,18.652,34.37
+04/06/2021 16:41:01,177.95,9.28,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,20.733,21.76
+04/06/2021 17:42:12,155.78,9.84,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,31.673,23.54
+04/06/2021 17:43:09,90.54,8.48,http://speedtest.serverpoint.com:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,ServerPoint,22320,29.856,28.12
+04/06/2021 17:44:00,1.71,6.49,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.794,33.64
+04/06/2021 17:45:00,107.89,6.18,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,15.578,33.2
+04/06/2021 17:46:00,173.52,3.64,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.49,79.37
+04/06/2021 17:47:19,52.09,8.74,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,21.015,24.73
+04/06/2021 17:48:00,75.54,8.66,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.788,38.37
+04/06/2021 17:49:00,171.78,3.11,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.452,2686.5
+04/06/2021 18:34:00,36.53,7.47,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,36.551,27.57
+04/06/2021 18:35:01,54.52,5.45,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.21,24.09
+04/06/2021 18:36:00,52.24,5.76,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,17.775,25.3
+04/06/2021 18:37:01,44.25,5.41,http://speedtest.serverpoint.com:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,ServerPoint,22320,32.333,28.49
+04/06/2021 18:38:00,59.73,6.57,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,19.184,23.63
+04/06/2021 18:39:00,37.81,9.51,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.195,22.49
+04/06/2021 18:40:00,59.48,5.61,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.177,23.42
+04/06/2021 18:41:00,54.57,5.24,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.696,22.21
+04/07/2021 06:42:01,46.62,7.82,http://speedtest.serverpoint.com:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,ServerPoint,22320,44.909,16593.09
+04/07/2021 11:19:00,175.62,8.39,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,20.23,22.53
+04/07/2021 11:20:01,175.89,7.18,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.821,22.01
+04/07/2021 11:21:00,177.02,8.85,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.94,22.12
+04/07/2021 11:22:01,172.54,6.01,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.467,21.87
+04/07/2021 11:23:00,172.58,8.3,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.277,22.5
+04/07/2021 11:24:00,174.54,7.65,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.885,22.94
+04/07/2021 11:25:00,173.62,8.29,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.124,22.16
+04/07/2021 11:26:00,175.59,9.36,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.719,22.49
+04/07/2021 11:27:00,174.4,9.26,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.585,21.79
+04/07/2021 11:28:00,171.5,6.19,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.903,22.89
+04/07/2021 11:29:01,168.27,7.48,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.754,23.5
+04/07/2021 11:31:00,173.19,7.29,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.354,22.45
+04/07/2021 11:32:00,171.9,8.54,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.723,22.25
+04/07/2021 11:33:00,173.34,9.25,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.293,22.0
+04/07/2021 11:34:00,172.72,8.39,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,19.683,21.92
+04/07/2021 11:35:00,150.75,7.29,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.232,22.54
+04/07/2021 11:36:00,169.01,7.15,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,16.171,22.79
+04/07/2021 11:37:00,173.06,7.39,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.053,21.71
+04/07/2021 11:38:00,175.83,7.95,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.707,22.22
+04/07/2021 11:39:00,175.79,7.59,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.801,23.53
+04/07/2021 11:40:00,172.95,7.24,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.956,22.26
+04/07/2021 11:41:01,169.42,4.08,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.163,21.79
+04/07/2021 11:42:00,173.44,6.76,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.951,21.95
+04/07/2021 11:43:00,175.79,6.97,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.661,21.69
+04/07/2021 11:44:00,174.8,7.05,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.535,22.64
+04/07/2021 11:45:00,174.83,6.56,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.882,22.37
+04/07/2021 11:46:00,174.57,6.89,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.714,21.7
+04/07/2021 11:47:01,169.76,6.1,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,12.672,24.41
+04/07/2021 11:48:01,177.09,8.7,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.768,22.24
+04/07/2021 11:49:00,176.68,6.11,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.377,22.1
+04/07/2021 11:50:00,173.69,7.32,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.687,22.44
+04/07/2021 11:51:00,172.68,6.54,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.625,23.23
+04/07/2021 11:52:01,175.25,7.02,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.858,22.12
+04/07/2021 11:53:00,174.72,9.54,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.773,22.2
+04/07/2021 11:54:01,176.13,7.88,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.996,22.42
+04/07/2021 11:55:00,178.49,7.02,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.374,22.17
+04/07/2021 11:56:01,177.41,10.78,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.099,21.66
+04/07/2021 11:57:00,178.12,9.5,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.905,22.12
+04/07/2021 11:58:00,174.64,7.06,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.537,21.57
+04/07/2021 11:59:00,178.76,8.35,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.387,22.71
+04/07/2021 12:01:00,178.68,8.85,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.782,22.35
+04/07/2021 12:02:00,178.24,7.28,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.927,22.06
+04/07/2021 12:03:00,178.64,8.62,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.928,21.65
+04/07/2021 12:04:00,175.93,8.2,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,13.052,21.84
+04/07/2021 12:05:00,176.54,8.57,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.255,21.66
+04/07/2021 12:06:00,177.83,7.18,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.935,21.83
+04/07/2021 12:07:00,178.65,5.63,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.632,25.39
+04/07/2021 12:08:00,178.22,7.91,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.774,22.24
+04/07/2021 12:09:01,177.82,7.46,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.961,21.91
+04/07/2021 12:10:01,178.0,8.81,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.179,22.22
+04/07/2021 12:11:01,176.37,9.01,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.4,22.34
+04/07/2021 12:12:00,174.88,8.55,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.554,22.12
+04/07/2021 12:13:01,175.38,9.26,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.636,22.16
+04/07/2021 12:14:00,177.77,7.4,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.548,21.74
+04/07/2021 12:15:01,175.84,8.4,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.562,21.63
+04/07/2021 12:16:01,177.99,6.41,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.322,22.4
+04/07/2021 12:17:00,176.96,9.74,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.374,21.98
+04/07/2021 12:18:01,177.39,9.5,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.748,22.58
+04/07/2021 12:19:00,171.68,6.41,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,16.773,23.05
+04/07/2021 12:20:01,178.72,8.28,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.25,21.65
+04/07/2021 12:21:01,177.86,6.39,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.048,25.33
+04/07/2021 12:22:01,174.66,6.04,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.235,23.25
+04/07/2021 12:23:00,178.87,7.62,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.062,21.96
+04/07/2021 12:24:00,178.66,6.76,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.69,22.92
+04/07/2021 12:25:01,177.12,9.14,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.791,22.44
+04/07/2021 12:26:00,173.66,6.84,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.551,22.9
+04/07/2021 12:27:01,176.99,8.62,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.288,21.93
+04/07/2021 12:28:00,130.21,7.29,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,16.449,23.96
+04/07/2021 12:29:00,175.57,7.39,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.807,22.06
+04/07/2021 12:31:00,177.75,8.04,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.049,22.62
+04/07/2021 12:32:00,178.86,9.49,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.831,21.68
+04/07/2021 12:33:00,177.02,6.45,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,15.761,22.67
+04/07/2021 13:04:01,178.04,9.17,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,19.088,22.03
+04/07/2021 13:05:08,178.1,9.89,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,18.511,21.91
+04/07/2021 13:34:12,51.96,6.54,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,37.054,30.31
+04/07/2021 13:35:00,47.88,7.48,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,17.974,39.02
+04/07/2021 13:36:00,174.82,2.99,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,17.346,30.65
+04/07/2021 13:37:00,174.43,8.96,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,22.752,22.31
+04/07/2021 13:38:08,159.81,6.27,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,33.205,23.19
+04/07/2021 13:39:05,178.58,7.23,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,21.183,24.22
+04/07/2021 14:04:09,46.59,8.84,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,23.448,26.78
+04/07/2021 14:05:01,70.27,8.29,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.097,45.26
+04/07/2021 14:06:00,175.68,3.01,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.197,297.72
+04/07/2021 14:10:58,77.4,4.45,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,19.869,26.0
+04/07/2021 14:11:00,95.81,5.06,http://speedtest.serverpoint.com:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,ServerPoint,22320,34.628,24.72
+04/07/2021 14:12:01,174.53,7.76,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.188,22.18
+04/07/2021 14:13:00,165.28,7.07,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.02,22.9
+04/07/2021 14:14:00,175.49,8.51,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.699,22.75
+04/07/2021 14:15:00,174.8,8.2,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.955,21.82
+04/07/2021 14:16:00,171.98,8.09,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.665,22.01
+04/07/2021 14:17:01,169.36,7.32,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.082,22.26
+04/07/2021 14:18:01,173.11,6.95,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.516,23.22
+04/07/2021 14:19:00,173.36,7.37,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.305,22.21
+04/07/2021 14:20:00,174.96,8.28,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,11.371,22.12
+04/07/2021 14:21:00,172.53,4.54,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.545,31.69
+04/07/2021 14:22:01,56.06,7.46,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,31.373,23.08
+04/07/2021 14:23:00,62.23,7.18,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,16.232,22.32
+04/07/2021 14:24:00,67.47,7.99,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.542,22.07
+04/07/2021 14:25:00,68.71,7.63,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,17.931,22.31
+04/07/2021 14:26:01,63.33,7.22,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,16.756,22.81
+04/07/2021 14:27:01,65.94,7.84,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,10.64,21.79
+04/07/2021 14:28:00,61.55,7.19,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,17.998,23.69
+04/07/2021 14:29:01,70.26,10.33,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.22,21.81
+04/07/2021 14:31:00,65.48,6.31,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.444,24.33
+04/07/2021 14:32:00,66.66,7.89,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,18.876,22.61
+04/07/2021 14:33:00,69.88,7.08,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,15.573,22.14
+04/07/2021 14:34:01,69.67,8.74,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.718,23.07
+04/07/2021 14:35:00,73.69,8.26,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.66,22.05
+04/07/2021 14:36:00,34.77,6.81,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,19.161,30.13
+04/07/2021 14:37:01,47.35,5.47,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.883,23.22
+04/07/2021 14:38:00,42.29,7.23,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.869,22.78
+04/07/2021 14:39:00,47.06,5.32,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.688,21.98
+04/07/2021 14:40:00,66.86,5.98,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,20.366,23.72
+04/07/2021 14:41:00,69.19,6.66,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.787,24.01
+04/07/2021 14:42:00,64.23,4.93,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.846,25.34
+04/07/2021 14:43:00,64.39,4.48,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,18.698,22.03
+04/07/2021 14:44:00,68.83,6.52,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,25.325,22.57
+04/07/2021 14:45:00,68.44,9.44,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.261,22.25
+04/07/2021 14:46:00,68.03,5.45,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.887,23.86
+04/07/2021 14:47:00,67.57,5.05,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,16.007,24.42
+04/07/2021 14:48:00,66.65,5.36,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,18.279,23.17
+04/07/2021 14:49:00,68.89,7.17,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.599,22.98
+04/07/2021 14:50:00,72.62,4.85,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.238,25.61
+04/07/2021 14:51:00,62.66,6.08,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,15.463,22.77
+04/07/2021 14:52:00,66.93,5.48,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.73,23.48
+04/07/2021 14:53:01,69.24,4.84,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.524,22.06
+04/07/2021 14:54:00,60.63,5.6,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,17.807,26.55
+04/07/2021 14:55:01,70.69,7.33,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,17.086,22.64
+04/07/2021 14:56:00,70.24,6.28,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.046,24.1
+04/07/2021 14:57:00,65.27,7.26,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.81,21.86
+04/07/2021 14:58:00,68.84,5.93,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.474,22.79
+04/07/2021 14:59:00,67.14,5.84,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.863,23.86
+04/07/2021 15:01:00,64.22,9.06,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.178,22.79
+04/07/2021 15:02:00,61.61,5.88,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,16.458,22.97
+04/07/2021 15:03:00,70.1,7.43,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,16.101,21.91
+04/07/2021 15:04:00,67.28,5.87,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,16.418,23.52
+04/07/2021 15:05:00,28.32,8.79,http://las-vegas2.speedtest.centurylink.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,CenturyLink - 2,16446,28.93,23.68
+04/07/2021 15:06:00,69.17,6.11,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,16.384,26.17
+04/07/2021 15:07:00,47.91,5.75,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,16.888,25.27
+04/07/2021 15:08:00,24.0,5.98,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.62,22.66
+04/07/2021 15:09:01,65.81,7.71,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.085,22.65
+04/07/2021 15:10:01,65.52,5.0,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,21.124,25.0
+04/07/2021 15:11:00,67.67,6.29,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.368,27.55
+04/07/2021 15:12:01,69.85,5.6,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.143,23.28
+04/07/2021 15:13:00,30.96,4.8,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,19.004,25.45
+04/07/2021 15:14:01,65.32,5.67,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,12.956,25.01
+04/07/2021 15:15:00,66.04,7.58,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,16.205,22.99
+04/07/2021 15:16:00,69.91,7.42,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,14.596,22.03
+04/07/2021 15:17:00,66.68,10.63,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.625,21.77
+04/07/2021 15:18:00,64.47,5.14,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,18.412,22.24
+04/07/2021 15:19:01,69.04,7.17,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,16.166,22.34
+04/07/2021 15:20:00,76.61,9.29,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.039,22.37
+04/07/2021 15:21:00,69.51,5.73,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,17.948,23.54
+04/07/2021 15:22:00,68.85,6.89,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.917,21.8
+04/07/2021 15:23:00,71.61,4.78,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.244,23.95
+04/07/2021 15:24:00,64.43,7.48,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,17.462,22.71
+04/07/2021 15:25:00,69.14,7.94,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,19.344,24.67
+04/07/2021 15:26:00,66.79,8.54,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.091,23.71
+04/07/2021 15:27:00,65.77,4.6,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.276,21.82
+04/07/2021 15:28:00,66.82,5.53,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,18.73,24.43
+04/07/2021 15:29:00,37.01,8.03,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,21.186,25.0
+04/07/2021 15:31:01,65.85,7.29,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,18.509,24.47
+04/07/2021 15:32:00,63.81,8.02,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,18.277,22.11
+04/07/2021 15:33:01,69.6,6.56,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.215,23.54
+04/07/2021 15:34:00,58.42,6.97,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.786,22.94
+04/07/2021 15:35:01,70.38,7.14,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,15.327,22.2
+04/07/2021 15:36:00,67.98,8.34,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,13.797,21.65
+04/07/2021 15:37:00,62.18,7.72,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,18.378,22.2
+04/07/2021 15:38:00,69.61,10.38,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.366,21.83
+04/07/2021 15:39:00,60.24,7.66,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,16.553,22.1
+04/07/2021 15:40:01,75.15,8.0,http://speedtest.rd.lv.cox.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,Cox - Las Vegas,16622,14.136,22.42
+04/07/2021 15:41:00,70.45,7.19,http://speedtest.lasvegas.net:8080/speedtest/upload.php,36.1760,-115.1370,"Las Vegas, NV",United States,LV.Net,9056,15.167,22.58
